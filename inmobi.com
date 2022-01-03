@@ -2,13 +2,14 @@ import requests
 
 wordlist = []
 url1 = ".inmobi.com"
-#ulr2 = ".dash101.com"
+#url2 = ".dash101.com"
 url3 = ".shop101.com"
 url4 = ".glance.inmobi.com"
 url5 = ".glance.world"
 url6 = ".glance.app"
 url7 = ".glance.com"
 url8 = ".koralapp.com"
+url9 = ".roposo.com"
 
 # Enumerate subdomain inmobi
 
