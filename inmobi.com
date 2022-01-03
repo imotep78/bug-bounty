@@ -29,56 +29,56 @@ def dash_sub_enum():
 
 # Enumerate subdommain shop101
 
-def inmobi_sub_enum():
+def shop101_sub_enum():
   for word in wordlist:
-    requ = str(word) + url1
+    requ = str(word) + url3
     result = requests.get(requ)
     print(result)
 
 # Enumerate subdommain glance.inmobi
 
-def inmobi_sub_enum():
+def glan.inmobi_sub_enum():
   for word in wordlist:
-    requ = str(word) + url1
+    requ = str(word) + url4
     result = requests.get(requ)
     print(result)
 
 # Enumerate subdommain glance.world
 
-def inmobi_sub_enum():
+def Glan.wld_sub_enum():
   for word in wordlist:
-    requ = str(word) + url1
+    requ = str(word) + url5
     result = requests.get(requ)
     print(result)
 
 # Enumerate subdommain glance.app
 
-def inmobi_sub_enum():
+def glan.app_sub_enum():
   for word in wordlist:
-    requ = str(word) + url1
+    requ = str(word) + url6
     result = requests.get(requ)
     print(result)
 
 # Enumerate subdommain glance.com
 
-def inmobi_sub_enum():
+def glan.com_sub_enum():
   for word in wordlist:
-    requ = str(word) + url1
+    requ = str(word) + url7
     result = requests.get(requ)
     print(result)
 
 # Enumerate subdommain koralapp.com
 
-def inmobi_sub_enum():
+def kor.com_sub_enum():
   for word in wordlist:
-    requ = str(word) + url1
+    requ = str(word) + url8
     result = requests.get(requ)
     print(result)
 
 # Enumerate subdommain roposo.com
 
-def inmobi_sub_enum():
+def roposo_sub_enum():
   for word in wordlist:
-    requ = str(word) + url1
+    requ = str(word) + url9
     result = requests.get(requ)
     print(result)
