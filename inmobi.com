@@ -11,3 +11,11 @@ def inmobi_sub_enum():
     requ = str(word) + url1
     result = requests.get(requ)
     print(result)
+
+# Enumerate subdommain dash
+
+def dash_sub_enum():
+  for word in wordlist:
+    requ = str(word) + url2
+    result = requests.get(requ)
+    print(result)
