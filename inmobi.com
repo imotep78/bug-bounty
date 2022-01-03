@@ -26,3 +26,59 @@ def dash_sub_enum():
     requ = str(word) + url2
     result = requests.get(requ)
     print(result)
+
+# Enumerate subdommain shop101
+
+def inmobi_sub_enum():
+  for word in wordlist:
+    requ = str(word) + url1
+    result = requests.get(requ)
+    print(result)
+
+# Enumerate subdommain glance.inmobi
+
+def inmobi_sub_enum():
+  for word in wordlist:
+    requ = str(word) + url1
+    result = requests.get(requ)
+    print(result)
+
+# Enumerate subdommain glance.world
+
+def inmobi_sub_enum():
+  for word in wordlist:
+    requ = str(word) + url1
+    result = requests.get(requ)
+    print(result)
+
+# Enumerate subdommain glance.app
+
+def inmobi_sub_enum():
+  for word in wordlist:
+    requ = str(word) + url1
+    result = requests.get(requ)
+    print(result)
+
+# Enumerate subdommain glance.com
+
+def inmobi_sub_enum():
+  for word in wordlist:
+    requ = str(word) + url1
+    result = requests.get(requ)
+    print(result)
+
+# Enumerate subdommain koralapp.com
+
+def inmobi_sub_enum():
+  for word in wordlist:
+    requ = str(word) + url1
+    result = requests.get(requ)
+    print(result)
+
+# Enumerate subdommain roposo.com
+
+def inmobi_sub_enum():
+  for word in wordlist:
+    requ = str(word) + url1
+    result = requests.get(requ)
+    print(result)
